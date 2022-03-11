@@ -6,7 +6,7 @@
 #           d. Return maximum and minimum value from this tuple.
 
 t1=(1,2,5,7,9,2,4,6,8,10)
-t2=(11,13,15)
+t2=(13,15,17)
 def printing():
     
     length = int(len(t1)/2)
